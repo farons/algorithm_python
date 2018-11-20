@@ -2,7 +2,7 @@
 """
 实践了冒泡排序
 """
-__author__ = 'yzl'
+__author__ = 'yanzhilong'
 
 
 def bubble(data):
